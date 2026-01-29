@@ -30,12 +30,8 @@ These metrics were achieved on unseen test data, indicating strong generalizatio
 
 ## How to Run
 
-## 1. Install dependencies
-```bash
-pip install -r requirements.txt
-
-## 2. Run the application
-python app.py
+ 1. Install dependencies: pip install -r requirements.txt
+ 2. Run the application: python app.py
 
 ## Model Download
 
