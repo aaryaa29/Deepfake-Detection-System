@@ -20,8 +20,11 @@ pip install -r requirements.txt
 python app.py
 
 ## Model Download
-The trained model file is not included due to GitHub size limits.
 
-Download it from Google Drive:
+Due to GitHub file size limits, the trained model file is not included in this repository.
+
+### Use the Pretrained Model (Recommended)
+1. Download the trained model from this link:
 (https://drive.google.com/file/d/1cP_IIB5yS7MA2OUUZQKpbj3ltzZu_rtA/view?usp=drive_link)
-After downloading, place the model file inside the `model/` directory.
+2. After downloading, place the file inside the `model/` directory:
+
