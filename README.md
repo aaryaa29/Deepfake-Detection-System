@@ -43,6 +43,7 @@ Due to GitHub file size limits, the trained model file is not included in this r
 2. After downloading, place the file inside the `model/` directory.
 
 Project Structure
+```
 deepfake-detection-system/
 ├── app.py
 ├── requirements.txt
@@ -50,7 +51,7 @@ deepfake-detection-system/
 ├── .gitignore
 └── model/ deepfake_detector_final.keras
 
-
+```
 ## Developed By
 
 Aarya Thengne
