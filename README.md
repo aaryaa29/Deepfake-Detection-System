@@ -30,8 +30,8 @@ These metrics were achieved on unseen test data, indicating strong generalizatio
 
 ## How to Run
 
- 1. Install dependencies: pip install -r requirements.txt
- 2. Run the application: python app.py
+ 1. Install dependencies:  pip install -r requirements.txt
+ 2. Run the application:  python app.py
 
 ## Model Download
 
@@ -55,10 +55,12 @@ deepfake-detection-system/
 ## Developed By
 
 Aarya Thengne
+
 Applied AI & Machine Learning Enthusiast
 
 ## License
 
 This project is licensed under the MIT License.
+
 You are free to use, modify, and distribute this project with attribution.
 
