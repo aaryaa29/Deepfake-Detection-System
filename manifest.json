@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Deepfake Detection System",
+  "version": "1.0.0",
+  "description": "Detect AI-Generated Deepfakes Instantly.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open DFDS"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "host_permissions": [
+    "http://localhost:8000/*",
+    "<all_urls>"
+  ]
+}
