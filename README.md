@@ -1,4 +1,4 @@
-# DFDS-Major-Project-Colab
+# DeepFake Detection System
 
 Only work with the run file, do not run the training file.
 
