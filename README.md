@@ -34,7 +34,26 @@ A deep learning–based system to detect whether an image is REAL or FAKE.
    uvicorn main:app --reload
    ```
 
-### 2. Set up the Frontend (Chrome Extension)
+### 2. Set up the Frontend (Web Application)
+If you prefer to run the frontend as a normal webpage instead of an extension:
+1. Navigate to the main project folder.
+2. Start a local server using either Node or Python:
+   
+   **Option A: using Node/npx**
+   ```bash
+   npx serve .
+   ```
+   **Option B: using Python**
+   ```bash
+   python -m http.server 3000
+   ```
+3. Open your browser and navigate to:
+   - **Frontend:** http://localhost:3000
+   - **API:** http://localhost:8000
+
+*(Note: You can also simply double-click the `index.html` file to open it directly in your browser).*
+
+### 3. Set up the Frontend (Chrome Extension)
 - Open Google Chrome and go to `chrome://extensions/`
 - Turn on **Developer mode** (top right corner).
 - Click **Load unpacked** and select this entire project folder.
