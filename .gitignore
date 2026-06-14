@@ -29,3 +29,4 @@ __pycache__/
 *.py[cod]
 *$py.class
 images/
+*.pdf
